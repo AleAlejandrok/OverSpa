@@ -1,0 +1,37 @@
+[
+  { "name": "Antarctic Peninsula", "gameMode": "Control" },
+  { "name": "Busan", "gameMode": "Control" },
+  { "name": "Ilios", "gameMode": "Control" },
+  { "name": "Lijiang Tower", "gameMode": "Control" },
+  { "name": "Nepal", "gameMode": "Control" },
+  { "name": "Oasis", "gameMode": "Control" },
+  { "name": "Samoa", "gameMode": "Control" },
+
+  { "name": "Circuit Royal", "gameMode": "Escort" },
+  { "name": "Dorado", "gameMode": "Escort" },
+  { "name": "Havana", "gameMode": "Escort" },
+  { "name": "Junkertown", "gameMode": "Escort" },
+  { "name": "Rialto", "gameMode": "Escort" },
+  { "name": "Route 66", "gameMode": "Escort" },
+  { "name": "Watchpoint: Gibraltar", "gameMode": "Escort" },
+  { "name": "Shambali Monastery", "gameMode": "Escort" },
+
+  { "name": "Blizzard World", "gameMode": "Hybrid" },
+  { "name": "Eichenwalde", "gameMode": "Hybrid" },
+  { "name": "Hollywood", "gameMode": "Hybrid" },
+  { "name": "King’s Row", "gameMode": "Hybrid" },
+  { "name": "Midtown", "gameMode": "Hybrid" },
+  { "name": "Numbani", "gameMode": "Hybrid" },
+  { "name": "Paraíso", "gameMode": "Hybrid" },
+
+  { "name": "Colosseo", "gameMode": "Push" },
+  { "name": "Esperança", "gameMode": "Push" },
+  { "name": "New Queen Street", "gameMode": "Push" },
+  { "name": "Runasapi", "gameMode": "Push" },
+
+  { "name": "New Junk City", "gameMode": "Flashpoint" },
+  { "name": "Suravasa", "gameMode": "Flashpoint" },
+
+  { "name": "Hanaoka", "gameMode": "Clash" },
+  { "name": "Throne of Anubis", "gameMode": "Clash" }
+]
